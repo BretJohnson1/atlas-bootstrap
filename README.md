@@ -1,4 +1,4 @@
-{Cult of the Lamb}(https://bretjohnson1.github.io/atlas-bootstrap/)
+[Cult of the Lamb](https://bretjohnson1.github.io/atlas-bootstrap/)
 
 
 
